@@ -1,0 +1,4 @@
+### Usage
+```
+cargo run -- coolword
+```
